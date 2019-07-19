@@ -1,0 +1,5 @@
+Compile: in the Assignment folder console: 
+					make
+place text file into Assignment folder 
+to run console
+	"java WordApp 5 3 file"
